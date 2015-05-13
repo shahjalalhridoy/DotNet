@@ -1,0 +1,27 @@
+E:\103033\05-06-2015\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe.config
+E:\103033\05-06-2015\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe
+E:\103033\05-06-2015\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.pdb
+E:\103033\05-06-2015\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csprojResolveAssemblyReference.cache
+E:\103033\05-06-2015\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.EmployeeInformationUI.resources
+E:\103033\05-06-2015\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.Properties.Resources.resources
+E:\103033\05-06-2015\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csproj.GenerateResource.Cache
+E:\103033\05-06-2015\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.exe
+E:\103033\05-06-2015\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.pdb
+J:\ \EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe.config
+J:\ \EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.exe
+J:\ \EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.pdb
+J:\ \EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe
+J:\ \EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.pdb
+J:\ \EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csprojResolveAssemblyReference.cache
+J:\ \EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.EmployeeInformationUI.resources
+J:\ \EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.Properties.Resources.resources
+J:\ \EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csproj.GenerateResource.Cache
+G:\My Test Dot Net HRIDOY\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe.config
+G:\My Test Dot Net HRIDOY\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.exe
+G:\My Test Dot Net HRIDOY\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.pdb
+G:\My Test Dot Net HRIDOY\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe
+G:\My Test Dot Net HRIDOY\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.pdb
+G:\My Test Dot Net HRIDOY\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csprojResolveAssemblyReference.cache
+G:\My Test Dot Net HRIDOY\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.EmployeeInformationUI.resources
+G:\My Test Dot Net HRIDOY\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.Properties.Resources.resources
+G:\My Test Dot Net HRIDOY\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csproj.GenerateResource.Cache
